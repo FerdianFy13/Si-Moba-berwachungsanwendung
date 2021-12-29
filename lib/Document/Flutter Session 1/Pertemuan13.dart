@@ -1,0 +1,1 @@
+// fit digunakan agar ukuran image bisa responsbility dengan ukuran yang kita inginkan 

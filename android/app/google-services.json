@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251992481667",
+    "project_id": "si-moba",
+    "storage_bucket": "si-moba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251992481667:android:d308589ff756db15ad20b6",
+        "android_client_info": {
+          "package_name": "com.example.si_moba_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251992481667-7uhgudr6sh06phdv5v2grne66ee72dca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFg1U2_zzMfsldUP_7bf7JWc1mFUr1v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251992481667-7uhgudr6sh06phdv5v2grne66ee72dca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
